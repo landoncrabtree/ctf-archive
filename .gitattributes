@@ -1,0 +1,4 @@
+huntressctf/2025/challenges/i_forgot/i_forgot.zip filter=lfs diff=lfs merge=lfs -text
+uiuctf/2025/challenges/pwn/smm-is-asleep/files/run.tar.zst filter=lfs diff=lfs merge=lfs -text
+uiuctf/2025/challenges/pwn/bootkit/files/run.tar.zst filter=lfs diff=lfs merge=lfs -text
+uiuctf/2025/challenges/pwn/bootkit/files/vmlinux.zst filter=lfs diff=lfs merge=lfs -text

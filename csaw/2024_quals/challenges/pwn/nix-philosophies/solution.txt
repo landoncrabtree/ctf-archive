@@ -1,2 +1,0 @@
-smallisbeautiful
-make every program a filter

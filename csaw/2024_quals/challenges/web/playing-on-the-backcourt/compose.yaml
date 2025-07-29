@@ -1,5 +1,0 @@
-services:
-  web:
-    build: ./challenge
-    ports:
-      - "8000:5000"

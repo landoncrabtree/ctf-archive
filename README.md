@@ -1,6 +1,6 @@
-# CTF Writeups and Assets Repository
+# Capture The Flag (CTF) Challenges
 
-Welcome to my Capture The Flag (CTF) repository! This repository contains a collection of writeups, challenges, solutions, and assets from various CTF competitions I have participated in. Whether you're looking to learn from my experiences or simply want to explore some interesting challenges, you've come to the right place.
+Welcome to my Capture The Flag (CTF) repository! This repository contains a collection of challenge assets from various CTF competitions I have participated in. 
 
 **Table of Contents:**
 
@@ -11,7 +11,7 @@ Welcome to my Capture The Flag (CTF) repository! This repository contains a coll
 
 ## Introduction
 
-Capture The Flag (CTF) competitions are a fun and educational way to practice and improve your cybersecurity and hacking skills. This repository serves as a knowledge base where I share my insights and solutions to the challenges I encountered during CTF competitions. Feel free to use these writeups and assets for learning purposes or to prepare for upcoming CTF events.
+Capture The Flag (CTF) competitions are a fun and educational way to practice and improve your cybersecurity and hacking skills. This repository serves as a collection of challenges from a variety of CTF competitions. 
 
 ## Directory Structure
 
@@ -33,26 +33,19 @@ CTF-Name/
 | │ │ ├── README.md
 │ │ │ ├── files/
 │ │ │ │ ├── asset1.png
-│ │ │ │ └── solve.py
 │ ├── Forensics/
 │ │ ├── challenge1/
 | │ │ ├── README.md
 │ │ │ ├── files/
 │ │ │ │ ├── asset1.tar.gz
-│ │ │ │ └── solve.py
 │
 └── README.md
 ```
 
-
 ## Usage
 
-You are welcome to use the contents of this repository for your personal learning and reference. Here's how you can make the most of it:
-
-1. **Explore Writeups**: Browse through the CTF writeups to understand the thought process and techniques used to solve challenges.
-
-2. **Download Assets**: Download any assets such as scripts, files, or images associated with specific challenges.
+You are welcome to use the contents of this repository for your personal learning and reference. Ideally, this repository serves as a practice playground, where you can try to solve the challenges yourself. Test out your skills, methodologies, and tools and find areas for improvement. If you get stuck, some challenges may have a writeup available at <https://notes.landon.pw>.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use the content here for educational and non-commercial purposes, but please respect any licenses or terms of use associated with third-party assets or tools used in the CTF challenges.
+This repository is licensed under the [MIT License](LICENSE). You are free to use the content here for educational and non-commercial purposes, but please respect any licenses or terms of use associated with third-party assets or tools used in the CTF challenges. If you are a challenge creator and would like your challenge to be removed, please create an issue. 
